@@ -1,3 +1,5 @@
 Jackie Aldama 2016
+Back to Basicz
+
 Practice in Data Structures
-Doubly Linked List in Java
+Practice in Algorithms
