@@ -28,4 +28,8 @@ public class Stack {
 		if (!isEmpty()) head = head.getNext();
 		size--;
 	}
+	
+	public Node getHead() {
+		return head;
+	}
 }
